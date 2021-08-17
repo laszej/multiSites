@@ -1,7 +1,8 @@
 body
 {font-family: 'Ubuntu', sans-serif;
-width: 1200px;
+width: auto;
 background: linear-gradient( to right, red, green, blue);
+background-style: cover; 
 margin-right: auto;
 margin-left: auto;
 }
